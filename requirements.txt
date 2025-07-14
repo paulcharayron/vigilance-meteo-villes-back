@@ -1,0 +1,6 @@
+python-dotenv>=1.1.1,<1.2
+uvicorn>=0.35.0,<0.36
+pydantic-settings>=2.10.1,<2.11
+fastapi[standard]>=0.116.1,<0.117
+httpx>=0.28.1,<0.29
+pyjwt[crypto]>=2.10.1,<2.11
