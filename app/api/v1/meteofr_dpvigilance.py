@@ -9,6 +9,7 @@ router = APIRouter()
 
 @router.get(
     "/textes-vigilance-encours",
+    tags=["Météo France Public Vigilance Data"],
     description="Get the Meteo France vigilance public data texts",
     responses={
         404: {"model": MainErrorResponse},

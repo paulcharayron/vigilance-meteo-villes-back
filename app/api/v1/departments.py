@@ -120,6 +120,7 @@ router = APIRouter()
 
 @router.get(
     "/flag-image/{department_code}",
+    tags=["Departments' Flags"],
     description="Get the PNG image of the flag of the French department corresponding to the provided department code",
     # response_model=FileResponse,
     responses={
