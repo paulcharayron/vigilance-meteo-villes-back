@@ -1,7 +1,7 @@
 # ⛈️ Vigilance Météo Villes - Backend
 
 Backend API application built with [FastAPI](https://fastapi.tiangolo.com/).
-Backend for the ["vigilance-meteo-villes-front"](https://github.com/paulcharayron/vigilance-meteo-villes-frontent) frontend app.
+Backend for the ["vigilance-meteo-villes-front"](https://github.com/paulcharayron/vigilance-meteo-villes-front) frontend app.
 
 ---
 
